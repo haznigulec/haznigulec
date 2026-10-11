@@ -1,27 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working Mobile Application <br>🌱 I’m currently learning Ios, Flutter and  Android<br>💬 Ask me about<br>⚡ Fun fact
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Hazni Güleç, Senior Mobile Developer. Flutter apps that feel instant, native, secure and effortless." />
+</p>
 
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="Flutter, Dart, Kotlin, Swift, Firebase, WebSocket, BLoC, CI/CD" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hazni#7481) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hazniyoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haznigulec) 
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack. CORE: Flutter, Dart, Impeller. ARCHITECTURE: BLoC, RxDart, get_it, auto_route. REAL-TIME: WebSocket, MQTT, SignalR, Protocol Buffers. DATA: Dio, REST, Hive, SQLite, Secure Storage, Cache Manager. FIREBASE: Crashlytics, FCM, Remote Config, App Distribution. SECURITY: Biometric auth, Encryption, envied. eKYC: NFC ID reading, OCR, Face liveness, Video call. CHARTS & MARKETS: Syncfusion, TradingView, Matriks, Polygon.io, Alpaca. NATIVE: Kotlin, Swift, Java, Platform channels. DELIVERY: GitHub Actions, TestFlight, Play Console, Multi-flavor builds. Education: B.Sc. Software Engineering, Üsküdar University. Languages: Turkish, English." />
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haznigulec&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haznigulec&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haznigulec&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="mailto:haznigulec@gmail.com"><img src="assets/email.svg" width="49%" alt="Email: haznigulec@gmail.com" /></a>
+  <a href="https://linkedin.com/in/haznigulec"><img src="assets/linkedin.svg" width="49%" alt="LinkedIn: in/haznigulec" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haznigulec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=haznigulec&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub>Most of my work lives in private repositories under NDA.</sub></p>
