@@ -9,7 +9,6 @@
 @keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(4px,-4px)}}</style>
 
   <rect x="1" y="1" width="478" height="148" rx="28" fill="#0B0B0D" stroke="#26262B" stroke-width="2"/>
-  
   <text x="36" y="58" font-family="JB, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" font-size="15" fill="#8E8E93" letter-spacing="3">EMAIL</text>
   <text x="36" y="106" font-family="SG, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="30" fill="#F2F1EC">haznigulec@gmail.com</text>
   <path d="M36 122 H373.11" stroke="#13B9FD" stroke-width="2.5" stroke-linecap="round" class="under"/>
