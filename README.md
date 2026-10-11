@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Hazni Güleç, Senior Mobile Developer. Flutter apps that feel instant, native, secure and effortless." />
+  <img src="assets/hero.svg" width="100%" alt="Hazni Güleç, Senior Mobile Developer. Fintech and enterprise apps that feel instant, native, secure and effortless." />
 </p>
 
 <p align="center">
-  <img src="assets/marquee.svg" width="100%" alt="Flutter, Dart, Kotlin, Swift, Firebase, WebSocket, BLoC, CI/CD" />
+  <img src="assets/marquee.svg" width="100%" alt="Flutter, Dart, BLoC, RxDart, WebSocket, MQTT, eKYC, Firebase, CI/CD" />
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack. CORE: Flutter, Dart, Impeller. ARCHITECTURE: BLoC, RxDart, get_it, auto_route. REAL-TIME: WebSocket, MQTT, SignalR, Protocol Buffers. DATA: Dio, REST, Hive, SQLite, Secure Storage, Cache Manager. FIREBASE: Crashlytics, FCM, Remote Config, App Distribution. SECURITY: Biometric auth, Encryption, envied. eKYC: NFC ID reading, OCR, Face liveness, Video call. CHARTS & MARKETS: Syncfusion, TradingView, Matriks, Polygon.io, Alpaca. NATIVE: Kotlin, Swift, Java, Platform channels. DELIVERY: GitHub Actions, TestFlight, Play Console, Multi-flavor builds. Education: B.Sc. Software Engineering, Üsküdar University. Languages: Turkish, English." />
+  <img src="assets/work.svg" width="100%" alt="Selected work. Real-time market data: One source of truth for live prices: cache, streams, WebSockets. Identity checks (eKYC): NFC ID reading, OCR, face liveness, video call via native SDKs. Buy & sell, rebuilt: Every buy and sell screen on a clean, testable architecture." />
+</p>
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Stack. CORE: Flutter, Dart. ARCHITECTURE: BLoC, RxDart, get_it, auto_route. REAL-TIME: WebSocket, MQTT, SignalR, Protocol Buffers. CHARTS: Syncfusion, TradingView. NATIVE & SECURITY: Kotlin, Swift, Platform channels, Biometric auth, Encryption. FIREBASE & DATA: Crashlytics, FCM, Remote Config, Hive, SQLite. DELIVERY: GitHub Actions, Multi-flavor builds, TestFlight, Play Console. Education: B.Sc. Software Engineering, Üsküdar University. Languages: Turkish, English." />
 </p>
 
 <p align="center">
